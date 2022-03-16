@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Kafka_Connect_Schema_Registry</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="1.8.2" />
+    <PackageReference Include="AvroConvert" Version="3.2.3" />
+    <PackageReference Include="Confluent.SchemaRegistry.Serdes.Avro" Version="1.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\KafkaConfigs\KafkaConfigs.csproj" />
+    <ProjectReference Include="..\Product\Product.csproj" />
+    <ProjectReference Include="..\TFU\TFU.csproj" />
+    <ProjectReference Include="..\TKafkaSC\TKafkaSC.csproj" />
+  </ItemGroup>
+
+</Project>
