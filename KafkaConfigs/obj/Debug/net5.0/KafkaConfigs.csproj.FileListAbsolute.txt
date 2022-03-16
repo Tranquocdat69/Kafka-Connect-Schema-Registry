@@ -1,0 +1,15 @@
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\bin\Debug\net5.0\KafkaConfigs.deps.json
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\bin\Debug\net5.0\KafkaConfigs.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\bin\Debug\net5.0\ref\KafkaConfigs.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\bin\Debug\net5.0\KafkaConfigs.pdb
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\bin\Debug\net5.0\Product.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\bin\Debug\net5.0\Product.pdb
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.csproj.AssemblyReference.cache
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.AssemblyInfoInputs.cache
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.AssemblyInfo.cs
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.csproj.CopyComplete
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\ref\KafkaConfigs.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\KafkaConfigs\obj\Debug\net5.0\KafkaConfigs.pdb

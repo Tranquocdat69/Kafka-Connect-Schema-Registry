@@ -1,0 +1,12 @@
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\bin\Debug\net5.0\TFU.deps.json
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\bin\Debug\net5.0\TFU.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\bin\Debug\net5.0\ref\TFU.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\bin\Debug\net5.0\TFU.pdb
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.AssemblyInfoInputs.cache
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.AssemblyInfo.cs
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.csproj.CoreCompileInputs.cache
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\ref\TFU.dll
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.pdb
+C:\Workspace\.NET_Core\5.0\Kafka-Connect-Schema-Registry\Kafka-Connect-Schema-Registry\TFU\obj\Debug\net5.0\TFU.csproj.AssemblyReference.cache
